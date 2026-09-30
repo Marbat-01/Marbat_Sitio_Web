@@ -3,15 +3,24 @@ background-color: White;
 font-family: Arial;
 }
 body{
-	background-color: #4A0C00;
+	background-color: #002424;
 }
 footer{
+	text-align: center;
 	background-color: black;
 	color: white;
+	font-family: arial
 }
 h1{
 	text-align: center;
 	font-style: italic;
+}
+h2{
+	text-align: left;
+	font-family: arial;
+	font-style: italic;
+	font-size: 35px;
+	color: black;
 }
 h3{
 	color: white;
@@ -20,4 +29,38 @@ p{
 	color: white;
 	font-family: Arial;
 	text-align: center;
+}
+a{
+	font-family: arial;
+}
+.subtituloHeader{
+	text-align: center;
+}
+.youtube{
+	background-color: #FF8080;
+	border-radius: 20px;
+	width: 500px;
+}
+.instagram{
+	background-color: #FFBE5C;
+	border-radius: 20px;
+	width: 500px;
+}
+.twitch{
+	background-color: #FF99F8;
+	border-radius: 20px;
+	width: 500px;
+}
+.roblox{
+	background-color: #CFCFCF;
+	border-radius: 20px;
+	width: 500px;
+}
+.discord{
+	background-color: #7072FF;
+	border-radius: 20px;
+	width: 500px;
+}	
+.sitioNombre{
+	color: black;
 }
